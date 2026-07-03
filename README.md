@@ -61,7 +61,7 @@ This project implements a custom **Pix2Vox-like 3D reconstruction pipeline** usi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Slayer9966/2D-TO-3D-multi-view.git
+git clone https://github.com/muneebaslam157/2D-TO-3D-multi-view.git
 cd 2D-TO-3D-multi-view
 ```
 
