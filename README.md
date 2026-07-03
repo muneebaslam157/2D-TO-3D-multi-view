@@ -136,14 +136,14 @@ inference_pipeline.ipynb
 
 ## 📜 License
 
-Licensed under the **[MIT License](https://github.com/Slayer9966/2D-TO-3D-multi-view/blob/main/LICENSE)** — free to use, modify, and distribute.
+Licensed under the **[MIT License](https://github.com/muneebaslam157/2D-TO-3D-multi-view/blob/main/LICENSE)** — free to use, modify, and distribute.
 
 ---
 
 ## 🙋‍♂️ Author
 
-**Syed Muhammad Faizan Ali**  
+**Muneeb Aslam**  
 📍 Islamabad, Pakistan  
-📧 faizandev666@gmail.com  
-🔗 [GitHub](https://github.com/Slayer9966) | [LinkedIn](https://www.linkedin.com/posts/faizan-ali-7b4275297_deeplearning-computervision-3dreconstruction-activity-7335333984211468289-PBht?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfDpTgBZMmz-8LKpOQTMYhhO24GPrIrPTI)
+📧 muneebaslam157@gmail.com  
+🔗 [GitHub](https://github.com/muneebaslam157)  
 📢 If you find this project helpful or use it in your work, please consider giving it a ⭐ or letting me know via email or GitHub issues!
